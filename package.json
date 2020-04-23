@@ -1,0 +1,14 @@
+{
+  "name": "mym_profile_app",
+  "version": "1.0.0",
+  "description": "Desktop App Profile M Yusuf Mukharom",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "M Yusuf Mukharom",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.0.0"
+  }
+}
