@@ -9,6 +9,6 @@
   "author": "M Yusuf Mukharom",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.0.0"
+    "electron": "^15.5.5"
   }
 }
